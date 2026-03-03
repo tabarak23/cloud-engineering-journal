@@ -2,6 +2,7 @@
 
 ## Cloud Engineering Internship (Transitioning to Full-Time Role)  
 ### Client Server Technology Pvt Ltd, Hyderabad  
+### Feb 2026 - Present
 
 This repository documents my hands-on experience as a Cloud Engineering Intern at **Client Server Technology Pvt Ltd, Hyderabad**, with increasing responsibilities leading into a full-time engineering role.
 
