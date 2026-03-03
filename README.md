@@ -5,7 +5,7 @@
 
 This repository documents my hands-on experience as a Cloud Engineering Intern at **Client Server Technology Pvt Ltd, Hyderabad**, with increasing responsibilities leading into a full-time engineering role.
 
-This is a professional industry internship within an operating company environment, where I work on real cloud infrastructure, CI/CD systems, containerized applications, monitoring solutions, and infrastructure automation.
+This is a professional industry internship within an operating company environment, where I work on real cloud infrastructure, CI/CD systems, containerized applications, monitoring solutions, infrastructure automation, and cross-team collaboration.
 
 ---
 
@@ -40,7 +40,7 @@ During my internship and transition into full-time responsibilities, I work acro
 
 - Building and managing containerized workloads using Docker  
 - Supporting container deployment workflows  
-- Ensuring environment consistency across development and staging  
+- Ensuring environment consistency across environments  
 - Troubleshooting container-related deployment issues  
 
 ---
@@ -63,15 +63,37 @@ During my internship and transition into full-time responsibilities, I work acro
 
 ---
 
+### 6. Collaboration & Project Management  
+
+- Managing and tracking tasks using Jira  
+- Coordinating with teams through Microsoft Teams  
+- Real-time collaboration and issue resolution using Slack  
+- Participating in sprint planning and daily standups  
+- Communicating infrastructure updates and deployment changes  
+
+---
+
 ## Technologies & Tools  
 
-- Cloud Infrastructure (AWS)  
+### Cloud & Infrastructure  
+- AWS  
 - Terraform  
 - Docker  
+
+### CI/CD & Automation  
 - GitHub Actions  
 - Jenkins  
+
+### Monitoring  
 - Prometheus  
 - Grafana  
+
+### Collaboration & Workflow  
+- Jira  
+- Microsoft Teams  
+- Slack  
+
+### Security & Networking  
 - IAM & Security Best Practices  
 - Networking & VPC Fundamentals  
 
@@ -84,17 +106,19 @@ During my internship and transition into full-time responsibilities, I work acro
 - Assisted in infrastructure troubleshooting  
 - Supported CI/CD automation  
 - Contributed to monitoring and deployment workflows  
+- Participated in team collaboration and sprint activities  
 
 ### Full-Time Phase  
 
 - Increased ownership of infrastructure components  
 - Greater involvement in deployment pipeline decisions  
 - Improved reliability and automation practices  
+- Contributed more independently to infrastructure planning  
 
 ---
 
 ## Confidentiality Notice  
 
-All content in this repository is intentionally sanitized and excludes proprietary architecture, credentials, internal configurations, and sensitive company information.  
+All content in this repository is intentionally sanitized and excludes proprietary architecture, credentials, internal configurations, and sensitive company information.
 
-The focus is strictly on technical learning, engineering practices,visibilty and professional growth.
+The focus is strictly on technical learning, engineering practices,visibility and professional growth.
