@@ -102,19 +102,20 @@ During my internship and transition into full-time responsibilities, I work acro
 
 ## Growth Progression  
 
-### Internship Phase  
+## Current Internship Phase  
 
-- Assisted in infrastructure troubleshooting  
-- Supported CI/CD automation  
-- Contributed to monitoring and deployment workflows  
-- Participated in team collaboration and sprint activities  
+- Assisting in infrastructure troubleshooting  
+- Supporting CI/CD automation workflows  
+- Contributing to monitoring and deployment processes  
+- Participating in team collaboration and sprint activities  
+- Working closely with senior engineers on cloud operations
 
-### Full-Time Phase  
+## Growth & Increased Responsibility  
 
-- Increased ownership of infrastructure components  
-- Greater involvement in deployment pipeline decisions  
-- Improved reliability and automation practices  
-- Contributed more independently to infrastructure planning  
+- Gradually taking more ownership of infrastructure components  
+- Increasing involvement in CI/CD pipeline decisions  
+- Improving reliability and automation practices  
+- Contributing more independently to infrastructure planning   
 
 ---
 
