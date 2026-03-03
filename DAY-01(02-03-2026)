@@ -1,0 +1,52 @@
+Tasks I did today as a cloud engineer intern @ client server technology pvt ltd  
+
+1. Infrastructure & Deployment Troubleshooting
+
+Investigated infrastructure and deployment failures impacting developer workflows
+
+Analyzed logs and error messages to identify root causes
+
+Resolved configuration issues affecting service availability
+
+2. IAM Permission Conflict Resolution
+
+Diagnosed AccessDenied errors across cloud resources
+
+Reviewed IAM role trust relationships and permission policies
+
+Identified conflicts caused by explicit deny rules
+
+Applied least-privilege access principles
+
+Validated access using policy evaluation and CLI testing
+
+3. EC2 Optimization & Monitoring
+
+Reviewed EC2 instance configurations
+
+Evaluated instance sizing and performance metrics
+
+Optimized security group rules
+
+Monitored resource utilization to ensure efficient usage
+
+4. S3 & Networking Access Improvements
+
+Validated S3 bucket permissions and access controls
+
+Ensured proper network routing and security group configurations
+
+Confirmed secure internal communication between services
+
+Improved access reliability across development environments
+
+
+5. Cloud Resource Provisioning
+
+Built and configured cloud resources tailored to developer requirements
+
+Ensured environment isolation between services
+
+Applied proper tagging for resource organization and visibility
+
+Supported development teams with infrastructure setup
