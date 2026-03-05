@@ -1,0 +1,33 @@
+Tasks I did today as a Cloud Engineer Intern @ Client Server Technology Pvt Ltd
+
+1. AI Application Infrastructure Support
+
+Supported infrastructure for an AI based application
+Helped developers with access requirements for vector buckets in Amazon S3
+Reviewed permissions required for AI related storage resources
+Validated access configuration to support development workflows
+
+2. Vector Bucket Permission Investigation
+
+While testing access for vector buckets in S3 the request returned an AccessDenied error
+Verified existing S3 permissions and access policies
+Identified that vector buckets follow a different permission model compared to general purpose S3 buckets
+Reviewed the required permissions and resource configuration for vector related storage
+
+3. Infrastructure & Deployment Validation
+
+Worked with AWS Terraform and GitHub Actions to validate cloud configurations
+Checked deployment workflows and infrastructure setup used by developers
+Ensured resources were configured correctly for the development environment
+
+4. IAM Permission Analysis
+
+Analyzed IAM policies and access behavior for new AWS resource types
+Reviewed role permissions and access configuration
+Validated access behavior through testing and troubleshooting
+
+5. Cloud Resource Support for Developers
+
+Configured and reviewed cloud resources based on developer requirements
+Ensured developers had proper access to required services
+Helped maintain a stable and reliable development environment
