@@ -1,3 +1,7 @@
+Tasks I did today as a Cloud & Devops Engineer Intern @ Client Server Technology Pvt Ltd
+
+My team lead asked me to learn azure as im already in aws they need me to work parralelly in azure also just the administration part 
+
 Introduction to Source Control and Azure Repos 
 Git vs. TFVC Integrate Visual code with Azure Repos 
 Cloning the repo 
@@ -23,4 +27,4 @@ Caching Issues and App Configuration Fixes
 Re-running CI Pipeline with Fixes
 Final CI/CD Demo with Build and Deploy
 Deep understanding of nginx and its uses and reverse proxy and all components
-Created documentation on nginx reverse proxy with real use case and real configuration 
+Created documentation on nginx reverse proxy with real use case and real configuration
