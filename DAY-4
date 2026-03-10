@@ -28,10 +28,3 @@ Re-running CI Pipeline with Fixes
 Final CI/CD Demo with Build and Deploy
 Deep understanding of nginx and its uses and reverse proxy and all components
 Created documentation on nginx reverse proxy with real use case and real configuration
-Deep dive in files sites-enabled vs site-available 
-
-Deep dive in nginx load balancer 
-
-Nginx ssl and tsl 
-
-nginx forward proxy 
