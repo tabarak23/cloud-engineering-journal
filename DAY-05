@@ -1,0 +1,13 @@
+Tasks I did today as a cloud & Devops engineer intern @ client server technology pvt ltd  
+
+Deep dive in files sites-enabled vs site-available and nginx.conf file
+
+Deep dive in nginx load balancers (round robbin,ip hash,least conn)
+
+creating Nginx ssl and tsl and using that in the nginx sites-availabale
+
+nginx reverse proxy on docker containers 
+
+nginx forward proxy 
+
+ Configure HTTP to HTTPS Redirection
