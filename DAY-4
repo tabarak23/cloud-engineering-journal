@@ -1,0 +1,26 @@
+Introduction to Source Control and Azure Repos 
+Git vs. TFVC Integrate Visual code with Azure Repos 
+Cloning the repo 
+Commit changes through VSCode 
+Reviewing history from Azure Repos 
+Working with branches in Azure Repos 
+Tagging a release in Azure Repos 
+Managing repositories 
+Managing Pull requests
+Sample application code to load the dummy data
+Project Overview: YouTube Clone Setup
+Hosting on Azure App Service
+Provisioning Web App on Azure
+App Service Plans, Pricing, and Deployment Slots
+Git Initialization and Code Push to Azure Repos
+Creating a Build Pipeline with Classic Editor
+Understanding Build Agents and Pipeline Structure
+Adding npm Install and Build Steps
+Publishing Build Artifacts
+Deploying to Azure App Service from Build Pipeline
+Fixing Build and Deployment Errors
+Caching Issues and App Configuration Fixes
+Re-running CI Pipeline with Fixes
+Final CI/CD Demo with Build and Deploy
+Deep understanding of nginx and its uses and reverse proxy and all components
+Created documentation on nginx reverse proxy with real use case and real configuration 
