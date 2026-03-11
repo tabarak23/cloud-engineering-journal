@@ -1,0 +1,25 @@
+Tasks I did today as a cloud & Devops engineer intern @ client server technology pvt ltd  
+My Team lead asked me to do some research and hands on AWS KMS service and prepare a documentation on it what it is and how it is used 
+  
+  
+Encryption & Decryption Basics
+
+AWS KMS Key Types & Usage
+
+Envelope Encryption
+
+Symmetric vs Asymmetric Keys
+
+KMS Service Types & Alias
+
+Key Policies, Permissions & Grants
+
+Key Rotation
+
+Single vs Multi-Region Keys
+
+KMS Key Policy Structure
+
+KMS Use Cases
+
+Encryption & Decryption Demo
