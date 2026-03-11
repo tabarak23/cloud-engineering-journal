@@ -1,25 +1,52 @@
-Tasks I did today as a cloud & Devops engineer intern @ client server technology pvt ltd  
-My Team lead asked me to do some research and hands on AWS KMS service and prepare a documentation on it what it is and how it is used 
-  
-  
-Encryption & Decryption Basics
+📌 **Tasks Completed Today as a Cloud & DevOps Engineer Intern @ Client Server Technology Pvt Ltd**
 
-AWS KMS Key Types & Usage
+Today my team lead assigned me to research and perform hands-on practice with **AWS Key Management Service (KMS)** and prepare detailed documentation covering both conceptual understanding and practical implementations.
 
-Envelope Encryption
+🔐 **Documentation Prepared:**
+https://docs.google.com/document/d/1CHbrdNLCsA5O517ghQjdLkIVnci5vZuY/edit?usp=drivesdk&ouid=110082011351821972303&rtpof=true&sd=true
 
-Symmetric vs Asymmetric Keys
+### Topics Covered in the Documentation
 
-KMS Service Types & Alias
+**1️⃣ Encryption Fundamentals**
 
-Key Policies, Permissions & Grants
+* Encryption & Decryption Basics
+* Importance of encryption in cloud security
+* Real-world encryption use cases in cloud infrastructure
 
-Key Rotation
+**2️⃣ AWS KMS Core Concepts**
 
-Single vs Multi-Region Keys
+* Overview of AWS Key Management Service
+* Symmetric vs Asymmetric Keys
+* KMS Key Types and Usage
+* KMS Service Types & Key Aliases
+* Single-Region vs Multi-Region Keys
 
-KMS Key Policy Structure
+**3️⃣ Advanced Encryption Concepts**
 
-KMS Use Cases
+* Envelope Encryption architecture
+* Key Rotation and security best practices
+* KMS Key Policy structure and access control mechanisms
+* Understanding Key Policies, IAM Permissions, and KMS Grants
 
-Encryption & Decryption Demo
+**4️⃣ Hands-On Demonstrations Performed**
+
+* Implemented **server-side encryption using KMS** with:
+
+  * Amazon S3 for secure document storage
+  * Amazon RDS for encrypted database storage
+  * Amazon EBS for encrypted EC2 volumes
+
+* Configured **secure secret storage** using:
+
+  * AWS Secrets Manager integrated with KMS to encrypt database credentials
+
+* Practiced **encryption and decryption operations using KMS APIs**
+
+**5️⃣ Practical Use Cases Implemented**
+
+* Secure storage of application secrets
+* Encryption of sensitive application data
+* Protecting files uploaded to cloud storage
+* Implementing least-privilege access using IAM and KMS policies
+
+
