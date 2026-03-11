@@ -1,19 +1,21 @@
-📌 **Tasks Completed Today as a Cloud & DevOps Engineer Intern @ Client Server Technology Pvt Ltd**
 
-Today my team lead assigned me to research and perform hands-on practice with **AWS Key Management Service (KMS)** and prepare detailed documentation covering both conceptual understanding and practical implementations.
 
-🔐 **Documentation Prepared:**
+📌 Tasks Completed Today as a Cloud & DevOps Engineer Intern @ Client Server Technology Pvt Ltd
+
+Today my team lead assigned me to research and perform hands-on practice with AWS Key Management Service (KMS) and prepare detailed documentation covering both conceptual understanding and practical implementations.
+
+🔐 Documentation Prepared:
 https://docs.google.com/document/d/1CHbrdNLCsA5O517ghQjdLkIVnci5vZuY/edit?usp=drivesdk&ouid=110082011351821972303&rtpof=true&sd=true
 
-### Topics Covered in the Documentation
+Topics Covered in the Documentation
 
-**1️⃣ Encryption Fundamentals**
+1️⃣ Encryption Fundamentals
 
 * Encryption & Decryption Basics
 * Importance of encryption in cloud security
 * Real-world encryption use cases in cloud infrastructure
 
-**2️⃣ AWS KMS Core Concepts**
+2️⃣ AWS KMS Core Concepts
 
 * Overview of AWS Key Management Service
 * Symmetric vs Asymmetric Keys
@@ -21,32 +23,31 @@ https://docs.google.com/document/d/1CHbrdNLCsA5O517ghQjdLkIVnci5vZuY/edit?usp=dr
 * KMS Service Types & Key Aliases
 * Single-Region vs Multi-Region Keys
 
-**3️⃣ Advanced Encryption Concepts**
+3️⃣ Advanced Encryption Concepts
 
 * Envelope Encryption architecture
 * Key Rotation and security best practices
 * KMS Key Policy structure and access control mechanisms
 * Understanding Key Policies, IAM Permissions, and KMS Grants
 
-**4️⃣ Hands-On Demonstrations Performed**
+4️⃣ Hands-On Demonstrations Performed
 
-* Implemented **server-side encryption using KMS** with:
+* Implemented server-side encryption using KMS with:
 
   * Amazon S3 for secure document storage
   * Amazon RDS for encrypted database storage
   * Amazon EBS for encrypted EC2 volumes
 
-* Configured **secure secret storage** using:
+* Configured secure secret storage using:
 
   * AWS Secrets Manager integrated with KMS to encrypt database credentials
 
-* Practiced **encryption and decryption operations using KMS APIs**
+* Practiced encryption and decryption operations using KMS APIs
 
-**5️⃣ Practical Use Cases Implemented**
+5️⃣ Practical Use Cases Implemented
 
 * Secure storage of application secrets
 * Encryption of sensitive application data
 * Protecting files uploaded to cloud storage
 * Implementing least-privilege access using IAM and KMS policies
-
 
