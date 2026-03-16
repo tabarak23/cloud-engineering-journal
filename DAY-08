@@ -1,0 +1,7 @@
+Built infrastructure with Terraform (IaC)
+
+Deployed applications to Kubernetes dev cluster
+
+Troubleshot pod issues like CrashLoopBackOff & pending state
+
+Analyzed logs and fixed configuration errors
