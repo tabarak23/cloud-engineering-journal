@@ -1,0 +1,9 @@
+worked on 3 tier architecture 
+
+worked on high availability of an application 
+
+gave a quick review on how microservices comunicate to each other in different availability zones
+
+reviewed how to access application which is in private instance 
+
+worked on route53 failover routing
