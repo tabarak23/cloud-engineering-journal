@@ -1,0 +1,7 @@
+Hi team please find my minutes of meeting below 
+
+1) Gained in depth technical knowledge about RTO and RPO and how it is performed 
+2) WAL Write ahead log and how it is used 
+3) how data base replication + snapshot + wal all work together to achieve to get zero or near zero RPO and RTO 
+4) Replicas,recovery targets of WAL 
+5)how WAL file is pushed to s3 and syncs with data base replica
