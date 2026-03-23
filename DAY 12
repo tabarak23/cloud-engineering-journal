@@ -1,0 +1,15 @@
+Did some research on backup strategy
+
+got deep insight on how Snapshot + WAl and db replicas work hand in hand 
+
+Did configuraion of snapshot + wal + db replicas 
+
+Cross region backup
+
+backup for transcation logs for every 5-15min for Point in time recovery PITR
+
+S3 tiering and how it is done 
+
+Learned Point In Time Recovery (PITR)
+
+Gained a deep insight on how to keep RTO and RPO zero or atleast nero to zero 
