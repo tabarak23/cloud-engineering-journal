@@ -1,0 +1,13 @@
+understanding the requirements and traffic before choosing services
+
+Starting with a simple architecture and scale only when needed
+
+identify bottlenecks (CPU, memory, disk, network) before upgrading instance types
+
+Use the right storage class based on access pattern to optimize cost
+
+Add caching only when database latency becomes a problem
+
+Add queues only when asynchronous processing is required
+
+learned the flow of best system architecture →  reliability, scalability, security, and cost optimization
