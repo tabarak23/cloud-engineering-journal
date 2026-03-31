@@ -1,0 +1,7 @@
+Executed Django backend deployment on EC2 based on the provided deployment runbook
+Configured Python environment, Gunicorn, and Nginx for production setup
+Resolved static files configuration issue and ensured proper static file serving
+Supported Azure DevOps CI/CD pipeline deployment and backend service restart process
+Configured database connectivity (SQL Server ODBC) and verified application health and logs
+Trained new joiner on aws 
+gave presentation on best practices of terraform (upload the same on linkedin) https://www.linkedin.com/posts/tabarak8106749169_terraform-bestpractise-devsecops-activity-7444363783914897408-kGpt?utm_source=share&utm_medium=member_android&rcm=ACoAACwTwHQBchzI-dGoTyOoWV6v6nXg5UgjFLU
